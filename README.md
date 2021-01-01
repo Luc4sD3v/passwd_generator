@@ -6,6 +6,6 @@
 ### Created with the Python programming language and using the character replacement technique
 
 ## How to run?
-´´´
+```
 python3 main.py
-´´´
+```
